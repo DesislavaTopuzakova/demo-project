@@ -6,10 +6,6 @@ const text = fs.readFileSync('text.txt', 'utf8');
 console.log(text);
 console.log(`Брой символи: ${text.length}`);
 
-//писане на файл - създаваме нов файл и записваме съдържание в него
-const newText = "This is a new file created by Node.js";
-fs.writeFileSync('newFile.txt', newText);
-
 //добавяне на съдържание към съществуващ файл
 const additionalText = "\nThis text is added to the existing file.";
 fs.appendFileSync('newFile.txt', additionalText);
