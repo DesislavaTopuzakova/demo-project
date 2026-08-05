@@ -8,3 +8,7 @@ function generateRandomOrderID() {
     }
     return orderID;
 }
+
+// Example usage
+const newOrderID = generateRandomOrderID();
+console.log('Generated Order ID:', newOrderID);
