@@ -1,2 +1,4 @@
 # demo-project
-This is a demo repository for AI Coding Basics course.
+## 
+This is a demo **repository** for AI *Coding* Basics course.
+`this is test`
