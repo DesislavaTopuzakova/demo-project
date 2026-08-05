@@ -9,7 +9,6 @@ console.log(`Брой символи: ${text.length}`);
 //писане на файл - създаваме нов файл и записваме съдържание в него
 const newText = "This is a new file created by Node.js";
 fs.writeFileSync('newFile.txt', newText);
-console.log("Файлът newFile.txt е създаден успешно!");
 
 //добавяне на съдържание към съществуващ файл
 const additionalText = "\nThis text is added to the existing file.";
