@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "name": "Ivan Petrov", "email": "ivan.petrov@example.com", "age": 28, "active": true },
+    { "id": 2, "name": "Maria Georgieva", "email": "maria.georgieva@example.com", "age": 34, "active": true },
+    { "id": 3, "name": "Georgi Dimitrov", "email": "georgi.dimitrov@example.com", "age": 22, "active": false },
+    { "id": 4, "name": "Elena Nikolova", "email": "elena.nikolova@example.com", "age": 45, "active": true },
+    { "id": 5, "name": "Stoyan Ivanov", "email": "stoyan.ivanov@example.com", "age": 31, "active": false }
+  ]
+}

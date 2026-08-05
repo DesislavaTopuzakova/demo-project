@@ -1,0 +1,6 @@
+id,name,email,age,active
+1,Ivan Petrov,ivan.petrov@example.com,28,true
+2,Maria Georgieva,maria.georgieva@example.com,34,true
+3,Georgi Dimitrov,georgi.dimitrov@example.com,22,false
+4,Elena Nikolova,elena.nikolova@example.com,45,true
+5,Stoyan Ivanov,stoyan.ivanov@example.com,31,false

@@ -1,0 +1,15 @@
+{
+  "name": "03-functions-and-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testMatch": ["**/*.test.js"]
+  }
+}
